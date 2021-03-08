@@ -56,4 +56,7 @@ Before you continue, ensure you have met the following requirements:
 
 # Final Algorithm used
 - Random Forest Classifier
-- 
+
+# Cheers
+
+![9](https://user-images.githubusercontent.com/75733364/110282071-d8790880-8003-11eb-978f-9d7a5fde777c.jpg)
