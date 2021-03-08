@@ -4,7 +4,7 @@
 
 # Introduction
 
-Wine certification includes physiochemical tests like determination of density, pH, alcohol quantity, fixed and volatile acidity, etc. We have a large dataset having the physiochemical tests, results, and quality on the scale of 1 to 10 (which is further tansformed between 0,1 and 2) of wines of the Vinho Verde variety.Such a model can be used not only by the certification bodies but also by the wine producers to improve quality based on the physicochemical properties and by the consumers to predict the quality of wines.
+Wine certification includes physiochemical tests like determination of density, pH, alcohol quantity, fixed and volatile acidity, etc. We have a large dataset having the physiochemical tests, results, and quality on the scale of 1 to 10 (which is further transformed between 0,1 and 2) of wines of the Vinho Verde variety. Such a model can be used not only by the certification bodies but also by the wine producers to improve quality based on the physicochemical properties and by the consumers to predict the quality of wines.
 
 # Dataset
 The dataset can be found at the UCI Machine Learning Repository (also available on Kaggle). Wines are divided into 2 categories, white wines and red wines. This analysis is concerned with White Wine and is based on the 13 variables/characteristics presented in the dataset :
